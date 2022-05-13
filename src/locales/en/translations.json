@@ -1,0 +1,9 @@
+{
+    "Welcome to react tutorials": "Welcome to react tutorials",
+    "Hello": "Hello",
+    "Apply" : "Apply",
+    "Multilingual Application": "Multilingual Application",
+    "Spanish": "Spanish",
+    "English": "English",
+    "export_message" : "Successfully exported {{number}} records"
+}
